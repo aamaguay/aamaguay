@@ -8,13 +8,11 @@
 <table style="width:100%">
   <tr>
     <td>
-	
 	<a href="https://youtu.be/BQaxPwZWboA">
   		<img src="sh.jpg">
 	</a>
 	</td>
-	<td>
-		
+	<td>	
 	<a href="https://youtu.be/ebQphhLpJG0">
   		<img src="sh.jpg">
 	</a>
