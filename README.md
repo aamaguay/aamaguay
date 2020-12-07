@@ -1,5 +1,6 @@
-# 👋 Hi folks, my name is Alex Amaguaya.
-### I'm a Economic Researcher, Data Analyst and Data Scientist.
+# Economic Researcher, Data Analyst and Data Scientist.
+### 👋 Hi folks, my name is Alex Amaguaya.
+### I'm a professional passionate about Data Analytics and Technology, with a specialization in Big Data and Data Science. I've several years of experience in Data Analysis in research work and projects with multidisciplinary teams. Also, I'm open to new opportunities to advise companies on data analytics.
 
 ![https://github.com/antoniolg](sh.jpg)
 
@@ -7,11 +8,7 @@ I do data analytics in research papers and projects. Also, I'm open to new oppor
 
 ## Learn with me
 
-🎁 Free Masterclass: [Revienta tu productividad en Android con Kotlin](https://devexperto.com/training-gratis?utm_source=github) / [Boost your Android productivity with Kotlin](https://antonioleiva.com/free-training)
 
-🥉 Book: [Kotlin For Android Developers](https://antonioleiva.com/book)</br>
-🥈 Training: [Kotlin Para Desarrolladores Android](https://devexperto.com/curso-kotlin-online) / [Kotlin for Android Developers](https://antonioleiva.com/online-course)</br>
-🥇 Program: [Architect Coders](https://architectcoders.com)
 
 ## Skills:
 ![Prog](https://img.shields.io/badge/Programming-3dcfdc?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)</br>
