@@ -17,28 +17,7 @@
   		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
 	</a>
 	</td>
-   <td>
-	<a href="https://youtu.be/IiuKAmgRYeM">
-  		<img src="http://i3.ytimg.com/vi/IiuKAmgRYeM/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/5M794S0-8GU">
-  		<img src="http://i3.ytimg.com/vi/5M794S0-8GU/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/o5xzhqRdL1k">
-  		<img src="http://i3.ytimg.com/vi/o5xzhqRdL1k/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/xGXRjiseVaE">
-  		<img src="http://i3.ytimg.com/vi/xGXRjiseVaE/maxresdefault.jpg">
-	</a>
-	</td>
+ 
   </tr>
 </table>
 </table>
