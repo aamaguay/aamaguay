@@ -8,7 +8,6 @@
 <table width="500" border="0" cellpadding="5" align="center">
 
 <tr>
-
 <td align="center" valign="center">
 <img src="ds.jpg"  />
 <br />
@@ -46,14 +45,14 @@ Networks
 
 
 ## Skills:
-![Prog](https://img.shields.io/badge/Programming-3dcfdc?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)</br>
-![Sta](https://img.shields.io/badge/Statistic-3ae620?style=for-the-badge&logo=smart&logoColor=white&labelColor=101010)</br>
+![Prog](https://img.shields.io/badge/Programming-3dcfdc?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)
+![Sta](https://img.shields.io/badge/Statistic-3ae620?style=for-the-badge&logo=smart&logoColor=white&labelColor=101010)
 ![Py](https://img.shields.io/badge/Python-ffbf00?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
-![R](https://img.shields.io/badge/R-0095D5?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
-![Stata](https://img.shields.io/badge/Stata-d435c9?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)</br>
+![R](https://img.shields.io/badge/R-0095D5?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)
+![Stata](https://img.shields.io/badge/Stata-d435c9?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)
 ![Tab](https://img.shields.io/badge/Tableau-f52525?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=101010)</br>
-![Pbi](https://img.shields.io/badge/powerbi-0095D5?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)</br>
-![over](https://img.shields.io/badge/Overleaf-d3db2c?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=101010)</br>
+![Pbi](https://img.shields.io/badge/powerbi-0095D5?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)
+![over](https://img.shields.io/badge/Overleaf-d3db2c?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=101010)
 ![mysql](https://img.shields.io/badge/Mysql-2cafdb?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
 
 ## You can find me at.-
