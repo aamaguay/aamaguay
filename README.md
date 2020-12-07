@@ -34,7 +34,7 @@ Applied Microeconomics.
 </td>
 
 <td align="center" valign="center">
-<img src="n1.jpg" alt="description here" />
+<img src="n1.png" alt="description here" />
 <br />
 Netorks
 </td>
