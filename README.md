@@ -10,13 +10,13 @@
 <tr>
 
 <td align="center" valign="center">
-<img src="ds.jpg" alt="description here" />
+<img src="ds.jpg"  />
 <br />
 Data Science
 </td>
 
 <td align="center" valign="center">
-<img src="ml.jpg" alt="description here" />
+<img src="ml.jpg"  />
 <br />
 Machine Learning
 </td>
@@ -27,14 +27,14 @@ Machine Learning
 <tr>
 
 <td align="center" valign="center">
-<img src="mic.jpg" alt="description here" />
+<img src="mic.jpg"  />
 <br />
   
 Applied Microeconomics
 </td>
 
 <td align="center" valign="center">
-<img src="n_1.JPG" alt="description here" />
+<img src="n_1.JPG" />
 <br />
 Networks
 </td>
