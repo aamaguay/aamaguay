@@ -5,21 +5,24 @@
 ![https://github.com/antoniolg](sh.jpg)
 
 ## Research Interest
-<table style="width:100%">
-  <tr>
-    <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="sh.jpg">
-	</a>
-	</td>
-	<td>	
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="sh.jpg">
-	</a>
-	</td>
- 
-  </tr>
-</table>
+<table width="500" border="1" cellpadding="5">
+
+<tr>
+
+<td align="center" valign="center">
+<img src="sh.jpg" alt="description here" />
+<br />
+Data Science.
+</td>
+
+<td align="center" valign="center">
+<img src="sh.jpg" alt="description here" />
+<br />
+Machine Learning
+</td>
+
+</tr>
+
 </table>
 
 
