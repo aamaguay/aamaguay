@@ -8,13 +8,6 @@
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/fTSWFrt-xM4">
-  		<img src="https://drive.google.com/file/d/1Ysy-VHZR4iTRYkOPV0VjZ1i8Ev_jkVbB/view?usp=sharing">
-	</a>
-	</td>
-  </tr>
-  <tr>
-    <td>
 	<a href="https://youtu.be/BQaxPwZWboA">
   		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
 	</a>
