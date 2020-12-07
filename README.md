@@ -5,7 +5,7 @@
 ![https://github.com/antoniolg](sh.jpg)
 
 ## Research Interest
-<table width="500" border="0" cellpadding="5">
+<table width="500" border="0" cellpadding="5" align="center">
 
 <tr>
 
