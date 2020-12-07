@@ -7,8 +7,6 @@
 ## Research Interest
 <table style="width:100%">
   <tr>
-	  <td>Firstname</td>
-	  <td>Lastname</td>
     <td>
 	
 	<a href="https://youtu.be/BQaxPwZWboA">
