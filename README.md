@@ -2,7 +2,7 @@
 ### 👋 Hi folks, my name is Alex Amaguaya.
 ### I'm a professional passionate about Data Analytics and Technology, with a specialization in Big Data and Data Science. I've several years of experience in Data Analysis in research work and projects with multidisciplinary teams. Also, I'm open to new opportunities to advise companies on data analytics.
 
-![https://github.com/antoniolg](sh.jpg)
+![aamaguay](sh.jpg)
 
 ## Research Interest
 <table width="500" border="0" cellpadding="5" align="center">
