@@ -5,7 +5,7 @@
 ![https://github.com/antoniolg](sh.jpg)
 
 ## Research Interest
-<table width="500" border="1" cellpadding="5">
+<table width="500" border="0" cellpadding="5">
 
 <tr>
 
@@ -36,7 +36,7 @@ Applied Microeconomics.
 <td align="center" valign="center">
 <img src="n1.png" alt="description here" />
 <br />
-Netorks
+Networks
 </td>
 
 </tr>
