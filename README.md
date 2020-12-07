@@ -10,15 +10,33 @@
 <tr>
 
 <td align="center" valign="center">
-<img src="sh.jpg" alt="description here" />
+<img src="ds.jpg" alt="description here" />
 <br />
 Data Science.
 </td>
 
 <td align="center" valign="center">
-<img src="sh.jpg" alt="description here" />
+<img src="ml.jpg" alt="description here" />
 <br />
 Machine Learning
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" valign="center">
+<img src="mic.jpg" alt="description here" />
+<br />
+  
+Applied Microeconomics.
+</td>
+
+<td align="center" valign="center">
+<img src="n1.jpg" alt="description here" />
+<br />
+Netorks
 </td>
 
 </tr>
