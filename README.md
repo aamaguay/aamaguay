@@ -1,4 +1,4 @@
-# Economic Researcher, Data Analyst and Scientist.
+# Economic Researcher, Scientist and Data Analyst.
 ### 👋 Hi folk, my name is Alex Amaguaya.
 ### I'm a professional passionate about Data Analytics and Technology, with a specialization in Big Data and Data Science. I've several years of experience in Data Analysis in research work and projects with multidisciplinary teams. Also, I'm open to new opportunities to advise companies on data analytics.
 
