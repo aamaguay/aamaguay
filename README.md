@@ -29,7 +29,7 @@ Machine Learning
 <img src="mic.jpg"  />
 <br />
   
-Applied Microeconomics
+Applied Microeconomics & Econometrics
 </td>
 
 <td align="center" valign="center">
