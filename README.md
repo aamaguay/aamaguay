@@ -1,68 +1,56 @@
-# Economic Researcher, Scientist and Data Analyst.
-## 👋 Hi folk, my name is Alex Amaguaya.
-### I'm a professional passionate about Data Analytics and Technology, with a specialization in Big Data and Data Science. I've several years of experience in Data Analysis in research work and projects with multidisciplinary teams. Also, I'm open to new opportunities to advise companies on data analytics.
+Hi 👋 My name is Alex
+==============================
 
-![aamaguay](sh.jpg)
+Data Scientist & Economic Researcher
+------------------------------------
 
-## Research Interest
-<table width="500" border="0" cellpadding="5" align="center">
+I work as a Data Scientist in a Business Intelligence company and usually collaborate in ESPOL research projects. I also have experience working with Social Media and Financial data. And I'm interested in developing research involving Econometrics and Machine Learning (intersection of fields).
 
-<tr>
-<td align="center" valign="center">
-<img src="ds.jpg"  />
-<br />
-Data Science
-</td>
+* 🌍  I'm based in Ecuador
+* 🖥️  See my portfolio at [Research Projects](http://alexamaguaya.netlify.app/publication/)
+* ✉️  You can contact me at [alexamaguayap@gmail.com](mailto:alexamaguayap@gmail.com)
+* 🚀  I'm currently working on [Nodel - Maven Road](http://mavenroad.com/)
+* 🧠  I'm learning NLP, Bayesian Statistic, Algorithms.
+* 🤝  I'm open to collaborating on ML/econometrics projects
 
-<td align="center" valign="center">
-<img src="ml.jpg"  />
-<br />
-Machine Learning
-</td>
+<a href="https://www.twitter.com/Alex_Amaguaya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Alex_Amaguaya?logo=twitter&style=for-the-badge&color=3382ed&labelColor=ffffff"
+/></a><a href="https://www.github.com/aamaguay" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/aamaguay?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a><a href="https://www.twitch.tv/aamaguaya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/aamaguaya?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=ffffff&label=TWITCH+STATUS" /></a>
 
-</tr>
+### Skills
 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"><img src="plots/R.png" width="36" height="36" alt="R" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="plots/git.jpg" width="36" height="36" alt="git" /></a>
+<a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="plots/neo4j.jpg" width="36" height="36" alt="neo4j" /></a>
+<a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="plots/databricks.png" width="36" height="36" alt="neo4j" /></a>
 
-<tr>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
-<td align="center" valign="center">
-<img src="mic.jpg"  />
-<br />
-  
-Applied Microeconomics & Econometrics
-</td>
-
-<td align="center" valign="center">
-<img src="n_1.JPG" />
-<br />
-Networks
-</td>
-
-</tr>
-
-</table>
+</p>
 
 
+### Socials
 
-## Skills:
-![Prog](https://img.shields.io/badge/Programming-3dcfdc?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)
-![Sta](https://img.shields.io/badge/Statistic-3ae620?style=for-the-badge&logo=smart&logoColor=white&labelColor=101010)
-![Py](https://img.shields.io/badge/Python-ffbf00?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
-![R](https://img.shields.io/badge/R-0095D5?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)
-![Stata](https://img.shields.io/badge/Stata-d435c9?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)
-![Tab](https://img.shields.io/badge/Tableau-f52525?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=101010)</br>
-![Pbi](https://img.shields.io/badge/powerbi-0095D5?style=for-the-badge&logo=SmartThings&logoColor=white&labelColor=101010)
-![over](https://img.shields.io/badge/Overleaf-d3db2c?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=101010)
-![mysql](https://img.shields.io/badge/Mysql-2cafdb?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
+<p align="left"> <a href="https://www.github.com/aamaguay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/a_amaguaya/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/a-amaguaya/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@alexamaguaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://alexamaguaya.netlify.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12082212/alex-amaguaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Alex_Amaguaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/aamaguaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-## You can find me at.-
+### Badges
 
-[![Website](https://img.shields.io/badge/Website-alex_amaguaya.com-27aef2?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://alexamaguaya.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Amaguaya-27f26e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/a-amaguaya/)
-[![Rgate](https://img.shields.io/badge/ResearchGate-Alex_Amaguaya-f23d5b?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Alex_Amaguaya)
-[![Instagram](https://img.shields.io/badge/Instagram-@programmer_economist-f5f538?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/a_amaguaya/)
-[![Twitter](https://img.shields.io/badge/Twitter-@Alex_Amaguaya-ffae57?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Alex_Amaguaya)
+<b>My GitHub Stats</b>
 
-## Contact me:
+<a href="http://www.github.com/aamaguay"><img src="https://github-readme-stats.vercel.app/api?username=aamaguay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="aamaguay's GitHub stats" /></a>
 
-[![Email](https://img.shields.io/badge/Mail-Alex_Amaguaya-6980f0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:aamaguay@espol.edu.ec)
+<a href="http://www.github.com/aamaguay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aamaguay&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+
+<a href="http://www.github.com/aamaguay"><img src="https://activity-graph.herokuapp.com/graph?username=aamaguay&bg_color=ffffff&color=64748b&line=3382ed&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/aamaguay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamaguay&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/aeap8828"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
