@@ -57,10 +57,10 @@ Networks
 
 ## You can find me at.-
 
-[![Website](https://img.shields.io/badge/Website-alex_amaguaya.com-27aef2?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://aamaguay.github.io/blog/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Amaguaya-27f26e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-amaguaya-074438128/)
+[![Website](https://img.shields.io/badge/Website-alex_amaguaya.com-27aef2?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://alexamaguaya.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Amaguaya-27f26e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/a-amaguaya/)
 [![Rgate](https://img.shields.io/badge/ResearchGate-Alex_Amaguaya-f23d5b?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Alex_Amaguaya)
-[![Instagram](https://img.shields.io/badge/Instagram-@programmer_economist-f5f538?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/programmer_economist/)
+[![Instagram](https://img.shields.io/badge/Instagram-@programmer_economist-f5f538?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/a_amaguaya/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Alex_Amaguaya-ffae57?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Alex_Amaguaya)
 
 ## Contact me:
