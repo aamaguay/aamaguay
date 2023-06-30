@@ -4,13 +4,13 @@ Hi 👋 My name is Alex
 Data Scientist & Economic Researcher
 ------------------------------------
 
-I work as a Data Scientist in a Business Intelligence company and usually collaborate in ESPOL research projects. I also have experience working with Social Media and Financial data. And I'm interested in developing research involving Econometrics and Machine Learning (intersection of fields).
+I work as Data Scientist and usually collaborate on ESPOL research projects. I also have experience working with Social Media and Financial data. And I'm interested in developing research involving Econometrics and Machine Learning (intersection of fields).
 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [Research Projects](http://alexamaguaya.netlify.app/publication/)
 * ✉️  You can contact me at [alexamaguayap@gmail.com](mailto:alexamaguayap@gmail.com)
-* 🚀  I'm currently working on [Nodel - Maven Road](http://mavenroad.com/)
-* 🧠  I'm learning NLP, Bayesian Statistic, Algorithms.
+* 🚀  I'm currently working on [kienzle](https://kienzle.de/)
+* 🧠  I'm learning NLP, Experiments, and Algorithms.
 * 🤝  I'm open to collaborating on ML/econometrics projects
 
 <a href="https://www.twitter.com/Alex_Amaguaya" target="_blank" rel="noreferrer"><img
